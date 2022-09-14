@@ -1,0 +1,1 @@
+- имя: cosign-installer использует: sigstore/cosign-installer@v2.6.0
